@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Initial Post
-subtitle: My first post to my website
+title: Magic the Gathering Deck Analysis
+subtitle: Based on the Mythic V championship
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
