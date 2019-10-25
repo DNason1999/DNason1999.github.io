@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A Young man with a Dream
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Dylan Nason. I am currently a DataScience student at 
+Lambda School in the Full Time DS9 Cohort.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Although I haven't been at lambda school very long, I hope to learn
+a lot about datascience, machine learning, and artificial intelligence.
 
-What else do you need?
+Hopefully with what I learn at lambda school, I can create enviornmentally
+impactful inventions and help save the world. If Elon Musk can do it, so can I!
 
 ### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I went to a local community college for two years studying for an associates in
+Engineering Science. Before completing my studies, my best friend directed me 
+to Lambda School, and now here I am!
