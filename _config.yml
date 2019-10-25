@@ -4,7 +4,7 @@
 title: Dylan Nason - Data Scientist
 
 # Short description of your site
-description: New Webpage!
+description: Personal Portfolio Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -69,7 +69,7 @@ social-network-links:
   rss: true
   email: "dylanw.nason@gmail.com"
 # facebook: deanattali
-  github: daattali
+  github: DNason1999
 # twitter: daattali
 #  reddit: yourname
   linkedin: Dylan Nason
